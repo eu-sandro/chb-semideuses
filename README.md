@@ -1,2 +1,2 @@
 # chb-semideuses
-Site para o RPG
+:bulb:Site para o RPG
