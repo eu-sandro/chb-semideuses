@@ -1,0 +1,19 @@
+body{background-image:url(../img/estrelas.jpg); width: 100%; height: 100%; margin: 0 auto;background-attachment: fixed;
+}
+*{font-family: 'Alata', sans-serif;}
+/*PRIMEIRO MAIN*/
+.menu-principal{width: 100%; height: 140px;background-color:#696969;}
+.contato ul li{display: inline-block; list-style:none;}
+.contato{float:right; width: 20%;}
+.imagem{border-radius: 50px; box-shadow: 0px 0px 10px white; margin-left: 20px;}
+.logo{padding: 16px; width: 20%; float: left;}
+.busca input{float:right; height: 20px; width: 190px; margin-right: 20px;padding: 7px; 
+    background-image:url(../img/pesquisa.png); background-repeat: no-repeat; background-position: 96%; background-size: 20px;
+    border-radius: 20px;transition-duration:0.5s;border: none;}
+.busca :hover{background-color:#efb115;}
+/*MEIO*/
+.caixa{background-color: #dddddd; width: 10%; margin-top: 20px; margin-left: 20px; font-size:20px; padding:10px;
+    border: 1px solid white; border-radius: 20px;}
+summary{cursor: pointer;}
+.bloco{background-color: white; border-radius: 20px; width: 80%; height: 40%;padding:20px; text-align: justify;}
+.img{text-align: right;}
